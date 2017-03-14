@@ -1,0 +1,22 @@
+{
+  "name": "flexboard",
+  "version": "0.0.1",
+  "description": "FlexBoard is an online platform for mindmapping and presenting.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blackboard",
+    "flex",
+    "flexboard",
+    "board",
+    "collaboration",
+    "productivity"
+  ],
+  "author": "moutansos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
